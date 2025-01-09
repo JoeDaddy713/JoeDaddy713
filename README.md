@@ -25,3 +25,4 @@ Tweak margin and padding
 Improve error handling
 Update dependencies
 Refactor core logic
+Add test cases
