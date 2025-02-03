@@ -18,3 +18,4 @@ Improve performance
 Fix typo in README
 Fix typo in README
 Update configuration
+Update configuration
