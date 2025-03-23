@@ -26,3 +26,4 @@ Improve error handling
 Update dependencies
 Refactor core logic
 Add test cases
+Improve error handling
