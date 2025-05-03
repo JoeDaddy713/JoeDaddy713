@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Improve performance
 Fix typo in README
 Fix typo in README
+Update configuration
