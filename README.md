@@ -20,3 +20,4 @@ Fix typo in README
 Update configuration
 Update configuration
 Improve performance
+Change theme color
